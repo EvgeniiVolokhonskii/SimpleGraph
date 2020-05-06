@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.volokhonskii.simplegraph.test.DirectGraphUnitTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-05-06T15:03:28" hostname="TD104" time="0.013">
+  <properties/>
+  <testcase name="addEdge_already_exists" classname="com.volokhonskii.simplegraph.test.DirectGraphUnitTests" time="0.01"/>
+  <testcase name="addEdge" classname="com.volokhonskii.simplegraph.test.DirectGraphUnitTests" time="0.0"/>
+  <testcase name="getPath" classname="com.volokhonskii.simplegraph.test.DirectGraphUnitTests" time="0.002"/>
+  <testcase name="addVertex" classname="com.volokhonskii.simplegraph.test.DirectGraphUnitTests" time="0.001"/>
+  <testcase name="addVertex_already_exists" classname="com.volokhonskii.simplegraph.test.DirectGraphUnitTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
